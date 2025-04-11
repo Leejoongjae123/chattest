@@ -23,6 +23,7 @@ export default function RootLayout({ children }) {
     <html lang="ko">
       <body className="w-screen h-full">
         <NextUIProvider>{children}</NextUIProvider>
+        
       </body>
     </html>
   );

@@ -1,0 +1,27 @@
+{
+  "name": "030.chat_app_stream",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.4.8",
+    "@react-three/drei": "^9.97.3",
+    "@react-three/fiber": "^8.15.19",
+    "framer-motion": "^11.11.15",
+    "next": "14.2.13",
+    "react": "^18",
+    "react-dom": "^18",
+    "stream-chat": "^8.44.0",
+    "stream-chat-react": "^12.5.2",
+    "three": "^0.175.0"
+  },
+  "devDependencies": {
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
